@@ -1,0 +1,82 @@
+# Chinese translation for NetSpeed
+# NetSpeed gnome扩展的简体中文翻译
+# Copyright (C) 2014
+# This file is distributed under the same license as the PACKAGE package.
+# chen <jmchxy@gmail.com>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-20 21:28-0700\n"
+"PO-Revision-Date: 2014-11-12 20:41+0800\n"
+"Last-Translator: chen xyz <jmchxy@gmail.com>\n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: extension.js:140
+msgid "Device"
+msgstr "设备"
+
+#: extension.js:142
+msgid "Up"
+msgstr "上传"
+
+#: extension.js:142
+msgid "Down"
+msgstr "下载"
+
+#: extension.js:394
+msgid "B/s"
+msgstr "B/s"
+
+#: extension.js:394
+msgid "KB/s"
+msgstr "KB/s"
+
+#: extension.js:394
+msgid "MB/s"
+msgstr "MB/s"
+
+#: extension.js:394
+msgid "GB/s"
+msgstr "GB/s"
+
+#: prefs.js:34
+msgid "ALL"
+msgstr "全部"
+
+#: prefs.js:108
+msgid "Device to monitor"
+msgstr "要监控的设备"
+
+#: prefs.js:109
+msgid "Timer (milisec)"
+msgstr "间隔（毫秒）"
+
+#: prefs.js:110
+msgid "Digits"
+msgstr "数字位数"
+
+#: prefs.js:111
+msgid "Label Size"
+msgstr "标签尺寸"
+
+#: prefs.js:112
+msgid "Unit Label Size"
+msgstr "单元标签尺寸"
+
+#: prefs.js:113
+msgid "Menu Label Size"
+msgstr "菜单标签尺寸"
+
+#: prefs.js:117
+msgid "Show sum(UP+Down)"
+msgstr "显示总数（上传+下载）"
+
+#: prefs.js:118
+msgid "Show the Icon"
+msgstr "显示图标"
